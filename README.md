@@ -1,2 +1,2 @@
 # web-cars
-aplicação web para venda e compra de carros seminovos e novos
+Aplicação web para compra e venda de carros novos e seminovos.
